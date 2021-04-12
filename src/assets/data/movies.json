@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Vakeel Saab",
+        "language": "Telugu",
+        "genre": "Legal Drama",
+        "rating": 4,
+        "review": "Good",
+        "description": "Criminal Lawyer who helps three young women to fight a molestation case against a rich brat",
+        "dateOfRelease": "April 9th"
+    },
+    {
+        "id": 2,
+        "name": "Radhe Syam",
+        "language": "Telugu",
+        "genre": "Romantic Drama",
+        "rating": 4,
+        "review": "Good",
+        "description": "Love Story",
+        "dateOfRelease": "July 30th"
+    },
+    {
+        "id": 3,
+        "name": "Jaati Ratnalu",
+        "language": "Telugu",
+        "genre": "Comedy Drama",
+        "rating": 4,
+        "review": "Good",
+        "description": "Comedy Movie",
+        "dateOfRelease": "March 11th"
+    },
+    {
+        "id": 4,
+        "name": "Srikaram",
+        "language": "Telugu",
+        "genre": "Drama",
+        "rating": 3,
+        "review": "Good",
+        "description": "Movie about Farmers",
+        "dateOfRelease": "March 11th"
+    },
+    {
+        "id": 5,
+        "name": "Naandhi",
+        "language": "Telugu",
+        "genre": "Crime Thriller",
+        "rating": 3,
+        "review": "Good",
+        "description": "Crime Courtroom Drama",
+        "dateOfRelease": "Feb 19th"
+    }
+]
